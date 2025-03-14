@@ -13,6 +13,9 @@ This Power BI dashboard analyzes user engagement on social media platforms by ev
 ## Dataset used
 - <a href="https://github.com/satishrdudhat/Power-BI-Average-Time-Spent-by-A-User-On-Social-Media-Analytics-Dashboard/blob/main/Average%20Time%20Spent%20By%20A%20User%20On%20Social%20Media.csv">View Dataset</a>
 
+##  View Dashboard On Power-Bi Services
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMjg4YTg5ZGYtZWQ2MS00YzhiLTk5OTUtOGQ5NzExZDA4NTU2IiwidCI6IjI5NjM3NzllLTNkMDMtNGRjYi05ZGI5LTExZGIwNzZhZDgzZCJ9">View Dashboard</a>
+
 ## Key Questions (KPIs)
 
 - What is the average time spent on social media per user?
