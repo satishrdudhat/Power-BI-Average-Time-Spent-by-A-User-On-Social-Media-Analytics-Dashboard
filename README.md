@@ -1,0 +1,2 @@
+# Power-BI-Average-Time-Spent-by-A-User-On-Social-Media-Analytics-Dashboard
+I developed a Social Media Analytics Dashboard in Power BI to analyze user engagement based on demographics, platforms, and professions. The dashboard provides insights into average time spent, platform preference (Facebook, Instagram, YouTube), and income-based behavior analysis, helping businesses optimize marketing strategies.
